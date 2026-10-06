@@ -41,3 +41,16 @@ The dashboard helps users understand sales trends, identify high-performing area
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository.
+## 📸 Dashboard Preview
+
+### Executive Sales Summary
+![Executive Sales Summary](executive-sales-summary.jpg.png)
+
+### Sales Analysis Dashboard
+![Sales Analysis Dashboard](sales-analysis-dashboard.jpg.png)
+
+### Product Analysis
+![Product Analysis](product-analysis.jpg.png)
+
+### Regional Analysis
+![Regional Analysis](region-analysis.jpg.png)
