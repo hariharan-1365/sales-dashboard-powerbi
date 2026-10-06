@@ -42,6 +42,16 @@ The dashboard helps users understand sales trends, identify high-performing area
 
 ⭐ If you find this project useful, feel free to explore the repository.
 ## 📸 Dashboard Preview
+📊 Project Highlights
+
+KPI| Value
+Total Sales| 30.02M
+Total Profit| 7.62M
+Total Orders| 1K
+Total Quantity| 5K
+Profit Margin| 25.36%
+
+The dashboard provides an interactive view of sales performance across products, regions, and time periods.
 
 ### Executive Sales Summary
 ![Executive Sales Summary](executive-sales-summary.jpg.png)
