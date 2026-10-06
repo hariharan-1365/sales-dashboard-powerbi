@@ -71,3 +71,19 @@ The dashboard provides an interactive view of sales performance across products,
 - Created KPI cards and interactive visualizations
 - Used data analysis to identify key business insights
 - Added dashboard screenshots for easy project preview
+
+  📊 Project Features
+
+- Executive Sales Summary – Overall sales and business performance
+- Product Analysis – Sales performance across different products
+- Regional Analysis – Comparison of sales across regions
+- Interactive Dashboard – Power BI visuals and KPIs for business insights
+- Data Visualization – Charts and graphs to make trends easy to understand
+
+🛠️ Tools & Technologies
+
+- Power BI
+- DAX
+- Data Visualization
+- Data Analysis
+- Microsoft Excel
