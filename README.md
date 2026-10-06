@@ -95,3 +95,20 @@ The dashboard provides an interactive view of sales performance across products,
 - Regional analysis makes it easier to compare sales performance across different regions.
 - KPI cards provide a quick view of important business metrics.
 - Interactive Power BI visuals allow users to explore the data from different perspectives.
+
+🚀 How to Use
+
+1. Download the "Sales Analysis.pbix" file from this repository.
+2. Open it using Microsoft Power BI Desktop.
+3. Use the available filters and interactive visuals to explore the dashboard.
+4. Review the sales, product, regional, and executive analysis pages.
+
+👤 Author
+
+Hariharan
+
+Power BI | Data Analysis | Data Visualization
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository.
