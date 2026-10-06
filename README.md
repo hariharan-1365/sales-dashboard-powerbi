@@ -87,3 +87,11 @@ The dashboard provides an interactive view of sales performance across products,
 - Data Visualization
 - Data Analysis
 - Microsoft Excel
+
+💡 Key Insights
+
+- The dashboard provides a clear overview of overall sales and profitability.
+- Product-level analysis helps identify strong and weak-performing products.
+- Regional analysis makes it easier to compare sales performance across different regions.
+- KPI cards provide a quick view of important business metrics.
+- Interactive Power BI visuals allow users to explore the data from different perspectives.
