@@ -64,3 +64,10 @@ The dashboard provides an interactive view of sales performance across products,
 
 ### Regional Analysis
 ![Regional Analysis](region-analysis.jpg.png)
+## ⭐ Project Highlights
+
+- Built an interactive Sales Dashboard using Power BI
+- Analyzed overall sales, products, and regional performance
+- Created KPI cards and interactive visualizations
+- Used data analysis to identify key business insights
+- Added dashboard screenshots for easy project preview
